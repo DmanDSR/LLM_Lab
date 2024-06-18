@@ -1,2 +1,6 @@
-# LLM-Lab
- Lab 1 for eek 8
+# EMOJI TRANSLATOR
+ ### by: Josean Maldonado, Raynard Flores, Dylan Sedeno, Rayner Morla
+
+# Project Overview
+Converts text into emojis, offering a playful and intuitive way to communicate across languages and cultures.
+
