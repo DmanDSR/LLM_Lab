@@ -1,6 +1,8 @@
 # EMOJI TRANSLATOR
  ### by: Josean Maldonado, Raynard Flores, Dylan Sedeno, Rayner Morla
 
+ [Presentation](https://docs.google.com/presentation/d/1gO3fHi6FYgxaLZ0deJ6RsaIeepvNMuRBfYCz0FDPnoo/edit?usp=sharing)
+
 # Project Overview
 Converts text into emojis, offering a playful and intuitive way to communicate across languages and cultures.
 
